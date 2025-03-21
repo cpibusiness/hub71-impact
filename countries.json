@@ -1,0 +1,1496 @@
+[
+	{
+		"code": "af",
+		"name": " Afghanistan",
+		"flag": "/hub71-impact/flags/af_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/af_1x1.svg"
+	},
+	{
+		"code": "ax",
+		"name": " Aland Islands",
+		"flag": "/hub71-impact/flags/ax_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ax_1x1.svg"
+	},
+	{
+		"code": "al",
+		"name": " Albania",
+		"flag": "/hub71-impact/flags/al_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/al_1x1.svg"
+	},
+	{
+		"code": "dz",
+		"name": " Algeria",
+		"flag": "/hub71-impact/flags/dz_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/dz_1x1.svg"
+	},
+	{
+		"code": "as",
+		"name": " American Samoa",
+		"flag": "/hub71-impact/flags/as_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/as_1x1.svg"
+	},
+	{
+		"code": "ad",
+		"name": " Andorra",
+		"flag": "/hub71-impact/flags/ad_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ad_1x1.svg"
+	},
+	{
+		"code": "ao",
+		"name": " Angola",
+		"flag": "/hub71-impact/flags/ao_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ao_1x1.svg"
+	},
+	{
+		"code": "ai",
+		"name": " Anguilla",
+		"flag": "/hub71-impact/flags/ai_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ai_1x1.svg"
+	},
+	{
+		"code": "aq",
+		"name": " Antarctica",
+		"flag": "/hub71-impact/flags/aq_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/aq_1x1.svg"
+	},
+	{
+		"code": "ag",
+		"name": " Antigua and Barbuda",
+		"flag": "/hub71-impact/flags/ag_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ag_1x1.svg"
+	},
+	{
+		"code": "ar",
+		"name": " Argentina",
+		"flag": "/hub71-impact/flags/ar_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ar_1x1.svg"
+	},
+	{
+		"code": "am",
+		"name": " Armenia",
+		"flag": "/hub71-impact/flags/am_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/am_1x1.svg"
+	},
+	{
+		"code": "aw",
+		"name": " Aruba",
+		"flag": "/hub71-impact/flags/aw_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/aw_1x1.svg"
+	},
+	{
+		"code": "au",
+		"name": " Australia",
+		"flag": "/hub71-impact/flags/au_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/au_1x1.svg"
+	},
+	{
+		"code": "at",
+		"name": " Austria",
+		"flag": "/hub71-impact/flags/at_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/at_1x1.svg"
+	},
+	{
+		"code": "az",
+		"name": " Azerbaijan",
+		"flag": "/hub71-impact/flags/az_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/az_1x1.svg"
+	},
+	{
+		"code": "bs",
+		"name": " Bahamas",
+		"flag": "/hub71-impact/flags/bs_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bs_1x1.svg"
+	},
+	{
+		"code": "bh",
+		"name": " Bahrain",
+		"flag": "/hub71-impact/flags/bh_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bh_1x1.svg"
+	},
+	{
+		"code": "bd",
+		"name": " Bangladesh",
+		"flag": "/hub71-impact/flags/bd_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bd_1x1.svg"
+	},
+	{
+		"code": "bb",
+		"name": " Barbados",
+		"flag": "/hub71-impact/flags/bb_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bb_1x1.svg"
+	},
+	{
+		"code": "by",
+		"name": " Belarus",
+		"flag": "/hub71-impact/flags/by_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/by_1x1.svg"
+	},
+	{
+		"code": "be",
+		"name": " Belgium",
+		"flag": "/hub71-impact/flags/be_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/be_1x1.svg"
+	},
+	{
+		"code": "bz",
+		"name": " Belize",
+		"flag": "/hub71-impact/flags/bz_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bz_1x1.svg"
+	},
+	{
+		"code": "bj",
+		"name": " Benin",
+		"flag": "/hub71-impact/flags/bj_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bj_1x1.svg"
+	},
+	{
+		"code": "bm",
+		"name": " Bermuda",
+		"flag": "/hub71-impact/flags/bm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bm_1x1.svg"
+	},
+	{
+		"code": "bt",
+		"name": " Bhutan",
+		"flag": "/hub71-impact/flags/bt_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bt_1x1.svg"
+	},
+	{
+		"code": "bo",
+		"name": " Bolivia",
+		"flag": "/hub71-impact/flags/bo_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bo_1x1.svg"
+	},
+	{
+		"code": "bq",
+		"name": " Bonaire, Sint Eustatius and Saba",
+		"flag": "/hub71-impact/flags/bq_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bq_1x1.svg"
+	},
+	{
+		"code": "ba",
+		"name": " Bosnia and Herzegovina",
+		"flag": "/hub71-impact/flags/ba_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ba_1x1.svg"
+	},
+	{
+		"code": "bw",
+		"name": " Botswana",
+		"flag": "/hub71-impact/flags/bw_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bw_1x1.svg"
+	},
+	{
+		"code": "bv",
+		"name": " Bouvet Island",
+		"flag": "/hub71-impact/flags/bv_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bv_1x1.svg"
+	},
+	{
+		"code": "br",
+		"name": " Brazil",
+		"flag": "/hub71-impact/flags/br_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/br_1x1.svg"
+	},
+	{
+		"code": "io",
+		"name": " British Indian Ocean Territory",
+		"flag": "/hub71-impact/flags/io_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/io_1x1.svg"
+	},
+	{
+		"code": "bn",
+		"name": " Brunei Darussalam",
+		"flag": "/hub71-impact/flags/bn_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bn_1x1.svg"
+	},
+	{
+		"code": "bg",
+		"name": " Bulgaria",
+		"flag": "/hub71-impact/flags/bg_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bg_1x1.svg"
+	},
+	{
+		"code": "bf",
+		"name": " Burkina Faso",
+		"flag": "/hub71-impact/flags/bf_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bf_1x1.svg"
+	},
+	{
+		"code": "bi",
+		"name": " Burundi",
+		"flag": "/hub71-impact/flags/bi_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bi_1x1.svg"
+	},
+	{
+		"code": "cv",
+		"name": " Cabo Verde",
+		"flag": "/hub71-impact/flags/cv_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cv_1x1.svg"
+	},
+	{
+		"code": "kh",
+		"name": " Cambodia",
+		"flag": "/hub71-impact/flags/kh_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/kh_1x1.svg"
+	},
+	{
+		"code": "cm",
+		"name": " Cameroon",
+		"flag": "/hub71-impact/flags/cm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cm_1x1.svg"
+	},
+	{
+		"code": "ca",
+		"name": " Canada",
+		"flag": "/hub71-impact/flags/ca_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ca_1x1.svg"
+	},
+	{
+		"code": "ky",
+		"name": " Cayman Islands",
+		"flag": "/hub71-impact/flags/ky_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ky_1x1.svg"
+	},
+	{
+		"code": "cf",
+		"name": " Central African Republic",
+		"flag": "/hub71-impact/flags/cf_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cf_1x1.svg"
+	},
+	{
+		"code": "td",
+		"name": " Chad",
+		"flag": "/hub71-impact/flags/td_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/td_1x1.svg"
+	},
+	{
+		"code": "cl",
+		"name": " Chile",
+		"flag": "/hub71-impact/flags/cl_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cl_1x1.svg"
+	},
+	{
+		"code": "cn",
+		"name": " China",
+		"flag": "/hub71-impact/flags/cn_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cn_1x1.svg"
+	},
+	{
+		"code": "cx",
+		"name": " Christmas Island",
+		"flag": "/hub71-impact/flags/cx_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cx_1x1.svg"
+	},
+	{
+		"code": "cc",
+		"name": " Cocos (Keeling) Islands",
+		"flag": "/hub71-impact/flags/cc_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cc_1x1.svg"
+	},
+	{
+		"code": "co",
+		"name": " Colombia",
+		"flag": "/hub71-impact/flags/co_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/co_1x1.svg"
+	},
+	{
+		"code": "km",
+		"name": " Comoros",
+		"flag": "/hub71-impact/flags/km_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/km_1x1.svg"
+	},
+	{
+		"code": "ck",
+		"name": " Cook Islands",
+		"flag": "/hub71-impact/flags/ck_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ck_1x1.svg"
+	},
+	{
+		"code": "cr",
+		"name": " Costa Rica",
+		"flag": "/hub71-impact/flags/cr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cr_1x1.svg"
+	},
+	{
+		"code": "hr",
+		"name": " Croatia",
+		"flag": "/hub71-impact/flags/hr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/hr_1x1.svg"
+	},
+	{
+		"code": "cu",
+		"name": " Cuba",
+		"flag": "/hub71-impact/flags/cu_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cu_1x1.svg"
+	},
+	{
+		"code": "cw",
+		"name": " Cura\u00e7ao",
+		"flag": "/hub71-impact/flags/cw_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cw_1x1.svg"
+	},
+	{
+		"code": "cy",
+		"name": " Cyprus",
+		"flag": "/hub71-impact/flags/cy_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cy_1x1.svg"
+	},
+	{
+		"code": "cz",
+		"name": " Czech Republic",
+		"flag": "/hub71-impact/flags/cz_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cz_1x1.svg"
+	},
+	{
+		"code": "ci",
+		"name": " C\u00f4te d'Ivoire",
+		"flag": "/hub71-impact/flags/ci_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ci_1x1.svg"
+	},
+	{
+		"code": "cd",
+		"name": " Democratic Republic of the Congo",
+		"flag": "/hub71-impact/flags/cd_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cd_1x1.svg"
+	},
+	{
+		"code": "dk",
+		"name": " Denmark",
+		"flag": "/hub71-impact/flags/dk_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/dk_1x1.svg"
+	},
+	{
+		"code": "dj",
+		"name": " Djibouti",
+		"flag": "/hub71-impact/flags/dj_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/dj_1x1.svg"
+	},
+	{
+		"code": "dm",
+		"name": " Dominica",
+		"flag": "/hub71-impact/flags/dm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/dm_1x1.svg"
+	},
+	{
+		"code": "do",
+		"name": " Dominican Republic",
+		"flag": "/hub71-impact/flags/do_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/do_1x1.svg"
+	},
+	{
+		"code": "ec",
+		"name": " Ecuador",
+		"flag": "/hub71-impact/flags/ec_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ec_1x1.svg"
+	},
+	{
+		"code": "eg",
+		"name": " Egypt",
+		"flag": "/hub71-impact/flags/eg_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/eg_1x1.svg"
+	},
+	{
+		"code": "sv",
+		"name": " El Salvador",
+		"flag": "/hub71-impact/flags/sv_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sv_1x1.svg"
+	},
+	{
+		"code": "gq",
+		"name": " Equatorial Guinea",
+		"flag": "/hub71-impact/flags/gq_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gq_1x1.svg"
+	},
+	{
+		"code": "er",
+		"name": " Eritrea",
+		"flag": "/hub71-impact/flags/er_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/er_1x1.svg"
+	},
+	{
+		"code": "ee",
+		"name": " Estonia",
+		"flag": "/hub71-impact/flags/ee_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ee_1x1.svg"
+	},
+	{
+		"code": "sz",
+		"name": " Eswatini",
+		"flag": "/hub71-impact/flags/sz_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sz_1x1.svg"
+	},
+	{
+		"code": "et",
+		"name": " Ethiopia",
+		"flag": "/hub71-impact/flags/et_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/et_1x1.svg"
+	},
+	{
+		"code": "fk",
+		"name": " Falkland Islands",
+		"flag": "/hub71-impact/flags/fk_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/fk_1x1.svg"
+	},
+	{
+		"code": "fo",
+		"name": " Faroe Islands",
+		"flag": "/hub71-impact/flags/fo_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/fo_1x1.svg"
+	},
+	{
+		"code": "fm",
+		"name": " Federated States of Micronesia",
+		"flag": "/hub71-impact/flags/fm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/fm_1x1.svg"
+	},
+	{
+		"code": "fj",
+		"name": " Fiji",
+		"flag": "/hub71-impact/flags/fj_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/fj_1x1.svg"
+	},
+	{
+		"code": "fi",
+		"name": " Finland",
+		"flag": "/hub71-impact/flags/fi_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/fi_1x1.svg"
+	},
+	{
+		"code": "fr",
+		"name": " France",
+		"flag": "/hub71-impact/flags/fr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/fr_1x1.svg"
+	},
+	{
+		"code": "gf",
+		"name": " French Guiana",
+		"flag": "/hub71-impact/flags/gf_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gf_1x1.svg"
+	},
+	{
+		"code": "pf",
+		"name": " French Polynesia",
+		"flag": "/hub71-impact/flags/pf_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pf_1x1.svg"
+	},
+	{
+		"code": "tf",
+		"name": " French Southern Territories",
+		"flag": "/hub71-impact/flags/tf_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tf_1x1.svg"
+	},
+	{
+		"code": "ga",
+		"name": " Gabon",
+		"flag": "/hub71-impact/flags/ga_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ga_1x1.svg"
+	},
+	{
+		"code": "gm",
+		"name": " Gambia",
+		"flag": "/hub71-impact/flags/gm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gm_1x1.svg"
+	},
+	{
+		"code": "ge",
+		"name": " Georgia",
+		"flag": "/hub71-impact/flags/ge_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ge_1x1.svg"
+	},
+	{
+		"code": "de",
+		"name": " Germany",
+		"flag": "/hub71-impact/flags/de_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/de_1x1.svg"
+	},
+	{
+		"code": "gh",
+		"name": " Ghana",
+		"flag": "/hub71-impact/flags/gh_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gh_1x1.svg"
+	},
+	{
+		"code": "gi",
+		"name": " Gibraltar",
+		"flag": "/hub71-impact/flags/gi_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gi_1x1.svg"
+	},
+	{
+		"code": "gr",
+		"name": " Greece",
+		"flag": "/hub71-impact/flags/gr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gr_1x1.svg"
+	},
+	{
+		"code": "gl",
+		"name": " Greenland",
+		"flag": "/hub71-impact/flags/gl_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gl_1x1.svg"
+	},
+	{
+		"code": "gd",
+		"name": " Grenada",
+		"flag": "/hub71-impact/flags/gd_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gd_1x1.svg"
+	},
+	{
+		"code": "gp",
+		"name": " Guadeloupe",
+		"flag": "/hub71-impact/flags/gp_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gp_1x1.svg"
+	},
+	{
+		"code": "gu",
+		"name": " Guam",
+		"flag": "/hub71-impact/flags/gu_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gu_1x1.svg"
+	},
+	{
+		"code": "gt",
+		"name": " Guatemala",
+		"flag": "/hub71-impact/flags/gt_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gt_1x1.svg"
+	},
+	{
+		"code": "gg",
+		"name": " Guernsey",
+		"flag": "/hub71-impact/flags/gg_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gg_1x1.svg"
+	},
+	{
+		"code": "gn",
+		"name": " Guinea",
+		"flag": "/hub71-impact/flags/gn_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gn_1x1.svg"
+	},
+	{
+		"code": "gw",
+		"name": " Guinea-Bissau",
+		"flag": "/hub71-impact/flags/gw_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gw_1x1.svg"
+	},
+	{
+		"code": "gy",
+		"name": " Guyana",
+		"flag": "/hub71-impact/flags/gy_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gy_1x1.svg"
+	},
+	{
+		"code": "ht",
+		"name": " Haiti",
+		"flag": "/hub71-impact/flags/ht_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ht_1x1.svg"
+	},
+	{
+		"code": "hm",
+		"name": " Heard Island and McDonald Islands",
+		"flag": "/hub71-impact/flags/hm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/hm_1x1.svg"
+	},
+	{
+		"code": "va",
+		"name": " Holy See",
+		"flag": "/hub71-impact/flags/va_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/va_1x1.svg"
+	},
+	{
+		"code": "hn",
+		"name": " Honduras",
+		"flag": "/hub71-impact/flags/hn_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/hn_1x1.svg"
+	},
+	{
+		"code": "hk",
+		"name": " Hong Kong",
+		"flag": "/hub71-impact/flags/hk_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/hk_1x1.svg"
+	},
+	{
+		"code": "hu",
+		"name": " Hungary",
+		"flag": "/hub71-impact/flags/hu_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/hu_1x1.svg"
+	},
+	{
+		"code": "is",
+		"name": " Iceland",
+		"flag": "/hub71-impact/flags/is_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/is_1x1.svg"
+	},
+	{
+		"code": "in",
+		"name": " India",
+		"flag": "/hub71-impact/flags/in_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/in_1x1.svg"
+	},
+	{
+		"code": "id",
+		"name": " Indonesia",
+		"flag": "/hub71-impact/flags/id_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/id_1x1.svg"
+	},
+	{
+		"code": "ir",
+		"name": " Iran",
+		"flag": "/hub71-impact/flags/ir_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ir_1x1.svg"
+	},
+	{
+		"code": "iq",
+		"name": " Iraq",
+		"flag": "/hub71-impact/flags/iq_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/iq_1x1.svg"
+	},
+	{
+		"code": "ie",
+		"name": " Ireland",
+		"flag": "/hub71-impact/flags/ie_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ie_1x1.svg"
+	},
+	{
+		"code": "im",
+		"name": " Isle of Man",
+		"flag": "/hub71-impact/flags/im_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/im_1x1.svg"
+	},
+	{
+		"code": "il",
+		"name": " Israel",
+		"flag": "/hub71-impact/flags/il_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/il_1x1.svg"
+	},
+	{
+		"code": "it",
+		"name": " Italy",
+		"flag": "/hub71-impact/flags/it_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/it_1x1.svg"
+	},
+	{
+		"code": "jm",
+		"name": " Jamaica",
+		"flag": "/hub71-impact/flags/jm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/jm_1x1.svg"
+	},
+	{
+		"code": "jp",
+		"name": " Japan",
+		"flag": "/hub71-impact/flags/jp_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/jp_1x1.svg"
+	},
+	{
+		"code": "je",
+		"name": " Jersey",
+		"flag": "/hub71-impact/flags/je_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/je_1x1.svg"
+	},
+	{
+		"code": "jo",
+		"name": " Jordan",
+		"flag": "/hub71-impact/flags/jo_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/jo_1x1.svg"
+	},
+	{
+		"code": "kz",
+		"name": " Kazakhstan",
+		"flag": "/hub71-impact/flags/kz_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/kz_1x1.svg"
+	},
+	{
+		"code": "ke",
+		"name": " Kenya",
+		"flag": "/hub71-impact/flags/ke_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ke_1x1.svg"
+	},
+	{
+		"code": "ki",
+		"name": " Kiribati",
+		"flag": "/hub71-impact/flags/ki_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ki_1x1.svg"
+	},
+	{
+		"code": "kw",
+		"name": " Kuwait",
+		"flag": "/hub71-impact/flags/kw_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/kw_1x1.svg"
+	},
+	{
+		"code": "kg",
+		"name": " Kyrgyzstan",
+		"flag": "/hub71-impact/flags/kg_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/kg_1x1.svg"
+	},
+	{
+		"code": "la",
+		"name": " Laos",
+		"flag": "/hub71-impact/flags/la_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/la_1x1.svg"
+	},
+	{
+		"code": "lv",
+		"name": " Latvia",
+		"flag": "/hub71-impact/flags/lv_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/lv_1x1.svg"
+	},
+	{
+		"code": "lb",
+		"name": " Lebanon",
+		"flag": "/hub71-impact/flags/lb_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/lb_1x1.svg"
+	},
+	{
+		"code": "ls",
+		"name": " Lesotho",
+		"flag": "/hub71-impact/flags/ls_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ls_1x1.svg"
+	},
+	{
+		"code": "lr",
+		"name": " Liberia",
+		"flag": "/hub71-impact/flags/lr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/lr_1x1.svg"
+	},
+	{
+		"code": "ly",
+		"name": " Libya",
+		"flag": "/hub71-impact/flags/ly_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ly_1x1.svg"
+	},
+	{
+		"code": "li",
+		"name": " Liechtenstein",
+		"flag": "/hub71-impact/flags/li_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/li_1x1.svg"
+	},
+	{
+		"code": "lt",
+		"name": " Lithuania",
+		"flag": "/hub71-impact/flags/lt_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/lt_1x1.svg"
+	},
+	{
+		"code": "lu",
+		"name": " Luxembourg",
+		"flag": "/hub71-impact/flags/lu_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/lu_1x1.svg"
+	},
+	{
+		"code": "mo",
+		"name": " Macau",
+		"flag": "/hub71-impact/flags/mo_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mo_1x1.svg"
+	},
+	{
+		"code": "mg",
+		"name": " Madagascar",
+		"flag": "/hub71-impact/flags/mg_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mg_1x1.svg"
+	},
+	{
+		"code": "mw",
+		"name": " Malawi",
+		"flag": "/hub71-impact/flags/mw_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mw_1x1.svg"
+	},
+	{
+		"code": "my",
+		"name": " Malaysia",
+		"flag": "/hub71-impact/flags/my_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/my_1x1.svg"
+	},
+	{
+		"code": "mv",
+		"name": " Maldives",
+		"flag": "/hub71-impact/flags/mv_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mv_1x1.svg"
+	},
+	{
+		"code": "ml",
+		"name": " Mali",
+		"flag": "/hub71-impact/flags/ml_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ml_1x1.svg"
+	},
+	{
+		"code": "mt",
+		"name": " Malta",
+		"flag": "/hub71-impact/flags/mt_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mt_1x1.svg"
+	},
+	{
+		"code": "mh",
+		"name": " Marshall Islands",
+		"flag": "/hub71-impact/flags/mh_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mh_1x1.svg"
+	},
+	{
+		"code": "mq",
+		"name": " Martinique",
+		"flag": "/hub71-impact/flags/mq_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mq_1x1.svg"
+	},
+	{
+		"code": "mr",
+		"name": " Mauritania",
+		"flag": "/hub71-impact/flags/mr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mr_1x1.svg"
+	},
+	{
+		"code": "mu",
+		"name": " Mauritius",
+		"flag": "/hub71-impact/flags/mu_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mu_1x1.svg"
+	},
+	{
+		"code": "yt",
+		"name": " Mayotte",
+		"flag": "/hub71-impact/flags/yt_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/yt_1x1.svg"
+	},
+	{
+		"code": "mx",
+		"name": " Mexico",
+		"flag": "/hub71-impact/flags/mx_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mx_1x1.svg"
+	},
+	{
+		"code": "md",
+		"name": " Moldova",
+		"flag": "/hub71-impact/flags/md_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/md_1x1.svg"
+	},
+	{
+		"code": "mc",
+		"name": " Monaco",
+		"flag": "/hub71-impact/flags/mc_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mc_1x1.svg"
+	},
+	{
+		"code": "mn",
+		"name": " Mongolia",
+		"flag": "/hub71-impact/flags/mn_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mn_1x1.svg"
+	},
+	{
+		"code": "me",
+		"name": " Montenegro",
+		"flag": "/hub71-impact/flags/me_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/me_1x1.svg"
+	},
+	{
+		"code": "ms",
+		"name": " Montserrat",
+		"flag": "/hub71-impact/flags/ms_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ms_1x1.svg"
+	},
+	{
+		"code": "ma",
+		"name": " Morocco",
+		"flag": "/hub71-impact/flags/ma_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ma_1x1.svg"
+	},
+	{
+		"code": "mz",
+		"name": " Mozambique",
+		"flag": "/hub71-impact/flags/mz_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mz_1x1.svg"
+	},
+	{
+		"code": "mm",
+		"name": " Myanmar",
+		"flag": "/hub71-impact/flags/mm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mm_1x1.svg"
+	},
+	{
+		"code": "na",
+		"name": " Namibia",
+		"flag": "/hub71-impact/flags/na_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/na_1x1.svg"
+	},
+	{
+		"code": "nr",
+		"name": " Nauru",
+		"flag": "/hub71-impact/flags/nr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/nr_1x1.svg"
+	},
+	{
+		"code": "np",
+		"name": " Nepal",
+		"flag": "/hub71-impact/flags/np_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/np_1x1.svg"
+	},
+	{
+		"code": "nl",
+		"name": " Netherlands",
+		"flag": "/hub71-impact/flags/nl_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/nl_1x1.svg"
+	},
+	{
+		"code": "nc",
+		"name": " New Caledonia",
+		"flag": "/hub71-impact/flags/nc_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/nc_1x1.svg"
+	},
+	{
+		"code": "nz",
+		"name": " New Zealand",
+		"flag": "/hub71-impact/flags/nz_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/nz_1x1.svg"
+	},
+	{
+		"code": "ni",
+		"name": " Nicaragua",
+		"flag": "/hub71-impact/flags/ni_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ni_1x1.svg"
+	},
+	{
+		"code": "ne",
+		"name": " Niger",
+		"flag": "/hub71-impact/flags/ne_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ne_1x1.svg"
+	},
+	{
+		"code": "ng",
+		"name": " Nigeria",
+		"flag": "/hub71-impact/flags/ng_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ng_1x1.svg"
+	},
+	{
+		"code": "nu",
+		"name": " Niue",
+		"flag": "/hub71-impact/flags/nu_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/nu_1x1.svg"
+	},
+	{
+		"code": "nf",
+		"name": " Norfolk Island",
+		"flag": "/hub71-impact/flags/nf_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/nf_1x1.svg"
+	},
+	{
+		"code": "kp",
+		"name": " North Korea",
+		"flag": "/hub71-impact/flags/kp_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/kp_1x1.svg"
+	},
+	{
+		"code": "mk",
+		"name": " North Macedonia",
+		"flag": "/hub71-impact/flags/mk_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mk_1x1.svg"
+	},
+	{
+		"code": "mp",
+		"name": " Northern Mariana Islands",
+		"flag": "/hub71-impact/flags/mp_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mp_1x1.svg"
+	},
+	{
+		"code": "no",
+		"name": " Norway",
+		"flag": "/hub71-impact/flags/no_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/no_1x1.svg"
+	},
+	{
+		"code": "om",
+		"name": " Oman",
+		"flag": "/hub71-impact/flags/om_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/om_1x1.svg"
+	},
+	{
+		"code": "pk",
+		"name": " Pakistan",
+		"flag": "/hub71-impact/flags/pk_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pk_1x1.svg"
+	},
+	{
+		"code": "pw",
+		"name": " Palau",
+		"flag": "/hub71-impact/flags/pw_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pw_1x1.svg"
+	},
+	{
+		"code": "pa",
+		"name": " Panama",
+		"flag": "/hub71-impact/flags/pa_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pa_1x1.svg"
+	},
+	{
+		"code": "pg",
+		"name": " Papua New Guinea",
+		"flag": "/hub71-impact/flags/pg_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pg_1x1.svg"
+	},
+	{
+		"code": "py",
+		"name": " Paraguay",
+		"flag": "/hub71-impact/flags/py_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/py_1x1.svg"
+	},
+	{
+		"code": "pe",
+		"name": " Peru",
+		"flag": "/hub71-impact/flags/pe_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pe_1x1.svg"
+	},
+	{
+		"code": "ph",
+		"name": " Philippines",
+		"flag": "/hub71-impact/flags/ph_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ph_1x1.svg"
+	},
+	{
+		"code": "pn",
+		"name": " Pitcairn",
+		"flag": "/hub71-impact/flags/pn_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pn_1x1.svg"
+	},
+	{
+		"code": "pl",
+		"name": " Poland",
+		"flag": "/hub71-impact/flags/pl_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pl_1x1.svg"
+	},
+	{
+		"code": "pt",
+		"name": " Portugal",
+		"flag": "/hub71-impact/flags/pt_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pt_1x1.svg"
+	},
+	{
+		"code": "pr",
+		"name": " Puerto Rico",
+		"flag": "/hub71-impact/flags/pr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pr_1x1.svg"
+	},
+	{
+		"code": "qa",
+		"name": " Qatar",
+		"flag": "/hub71-impact/flags/qa_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/qa_1x1.svg"
+	},
+	{
+		"code": "cg",
+		"name": " Republic of the Congo",
+		"flag": "/hub71-impact/flags/cg_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/cg_1x1.svg"
+	},
+	{
+		"code": "ro",
+		"name": " Romania",
+		"flag": "/hub71-impact/flags/ro_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ro_1x1.svg"
+	},
+	{
+		"code": "ru",
+		"name": " Russia",
+		"flag": "/hub71-impact/flags/ru_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ru_1x1.svg"
+	},
+	{
+		"code": "rw",
+		"name": " Rwanda",
+		"flag": "/hub71-impact/flags/rw_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/rw_1x1.svg"
+	},
+	{
+		"code": "re",
+		"name": " R\u00e9union",
+		"flag": "/hub71-impact/flags/re_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/re_1x1.svg"
+	},
+	{
+		"code": "bl",
+		"name": " Saint Barth\u00e9lemy",
+		"flag": "/hub71-impact/flags/bl_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/bl_1x1.svg"
+	},
+	{
+		"code": "sh",
+		"name": " Saint Helena, Ascension and Tristan da Cunha",
+		"flag": "/hub71-impact/flags/sh_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sh_1x1.svg"
+	},
+	{
+		"code": "kn",
+		"name": " Saint Kitts and Nevis",
+		"flag": "/hub71-impact/flags/kn_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/kn_1x1.svg"
+	},
+	{
+		"code": "lc",
+		"name": " Saint Lucia",
+		"flag": "/hub71-impact/flags/lc_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/lc_1x1.svg"
+	},
+	{
+		"code": "mf",
+		"name": " Saint Martin",
+		"flag": "/hub71-impact/flags/mf_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/mf_1x1.svg"
+	},
+	{
+		"code": "pm",
+		"name": " Saint Pierre and Miquelon",
+		"flag": "/hub71-impact/flags/pm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/pm_1x1.svg"
+	},
+	{
+		"code": "vc",
+		"name": " Saint Vincent and the Grenadines",
+		"flag": "/hub71-impact/flags/vc_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/vc_1x1.svg"
+	},
+	{
+		"code": "ws",
+		"name": " Samoa",
+		"flag": "/hub71-impact/flags/ws_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ws_1x1.svg"
+	},
+	{
+		"code": "sm",
+		"name": " San Marino",
+		"flag": "/hub71-impact/flags/sm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sm_1x1.svg"
+	},
+	{
+		"code": "st",
+		"name": " Sao Tome and Principe",
+		"flag": "/hub71-impact/flags/st_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/st_1x1.svg"
+	},
+	{
+		"code": "sa",
+		"name": " Saudi Arabia",
+		"flag": "/hub71-impact/flags/sa_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sa_1x1.svg"
+	},
+	{
+		"code": "sn",
+		"name": " Senegal",
+		"flag": "/hub71-impact/flags/sn_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sn_1x1.svg"
+	},
+	{
+		"code": "rs",
+		"name": " Serbia",
+		"flag": "/hub71-impact/flags/rs_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/rs_1x1.svg"
+	},
+	{
+		"code": "sc",
+		"name": " Seychelles",
+		"flag": "/hub71-impact/flags/sc_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sc_1x1.svg"
+	},
+	{
+		"code": "sl",
+		"name": " Sierra Leone",
+		"flag": "/hub71-impact/flags/sl_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sl_1x1.svg"
+	},
+	{
+		"code": "sg",
+		"name": " Singapore",
+		"flag": "/hub71-impact/flags/sg_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sg_1x1.svg"
+	},
+	{
+		"code": "sx",
+		"name": " Sint Maarten",
+		"flag": "/hub71-impact/flags/sx_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sx_1x1.svg"
+	},
+	{
+		"code": "sk",
+		"name": " Slovakia",
+		"flag": "/hub71-impact/flags/sk_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sk_1x1.svg"
+	},
+	{
+		"code": "si",
+		"name": " Slovenia",
+		"flag": "/hub71-impact/flags/si_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/si_1x1.svg"
+	},
+	{
+		"code": "sb",
+		"name": " Solomon Islands",
+		"flag": "/hub71-impact/flags/sb_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sb_1x1.svg"
+	},
+	{
+		"code": "so",
+		"name": " Somalia",
+		"flag": "/hub71-impact/flags/so_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/so_1x1.svg"
+	},
+	{
+		"code": "za",
+		"name": " South Africa",
+		"flag": "/hub71-impact/flags/za_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/za_1x1.svg"
+	},
+	{
+		"code": "gs",
+		"name": " South Georgia and the South Sandwich Islands",
+		"flag": "/hub71-impact/flags/gs_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gs_1x1.svg"
+	},
+	{
+		"code": "kr",
+		"name": " South Korea",
+		"flag": "/hub71-impact/flags/kr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/kr_1x1.svg"
+	},
+	{
+		"code": "ss",
+		"name": " South Sudan",
+		"flag": "/hub71-impact/flags/ss_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ss_1x1.svg"
+	},
+	{
+		"code": "es",
+		"name": " Spain",
+		"flag": "/hub71-impact/flags/es_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/es_1x1.svg"
+	},
+	{
+		"code": "lk",
+		"name": " Sri Lanka",
+		"flag": "/hub71-impact/flags/lk_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/lk_1x1.svg"
+	},
+	{
+		"code": "ps",
+		"name": " State of Palestine",
+		"flag": "/hub71-impact/flags/ps_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ps_1x1.svg"
+	},
+	{
+		"code": "sd",
+		"name": " Sudan",
+		"flag": "/hub71-impact/flags/sd_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sd_1x1.svg"
+	},
+	{
+		"code": "sr",
+		"name": " Suriname",
+		"flag": "/hub71-impact/flags/sr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sr_1x1.svg"
+	},
+	{
+		"code": "sj",
+		"name": " Svalbard and Jan Mayen",
+		"flag": "/hub71-impact/flags/sj_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sj_1x1.svg"
+	},
+	{
+		"code": "se",
+		"name": " Sweden",
+		"flag": "/hub71-impact/flags/se_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/se_1x1.svg"
+	},
+	{
+		"code": "ch",
+		"name": " Switzerland",
+		"flag": "/hub71-impact/flags/ch_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ch_1x1.svg"
+	},
+	{
+		"code": "sy",
+		"name": " Syria",
+		"flag": "/hub71-impact/flags/sy_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/sy_1x1.svg"
+	},
+	{
+		"code": "tw",
+		"name": " Taiwan",
+		"flag": "/hub71-impact/flags/tw_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tw_1x1.svg"
+	},
+	{
+		"code": "tj",
+		"name": " Tajikistan",
+		"flag": "/hub71-impact/flags/tj_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tj_1x1.svg"
+	},
+	{
+		"code": "tz",
+		"name": " Tanzania",
+		"flag": "/hub71-impact/flags/tz_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tz_1x1.svg"
+	},
+	{
+		"code": "th",
+		"name": " Thailand",
+		"flag": "/hub71-impact/flags/th_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/th_1x1.svg"
+	},
+	{
+		"code": "tl",
+		"name": " Timor-Leste",
+		"flag": "/hub71-impact/flags/tl_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tl_1x1.svg"
+	},
+	{
+		"code": "tg",
+		"name": " Togo",
+		"flag": "/hub71-impact/flags/tg_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tg_1x1.svg"
+	},
+	{
+		"code": "tk",
+		"name": " Tokelau",
+		"flag": "/hub71-impact/flags/tk_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tk_1x1.svg"
+	},
+	{
+		"code": "to",
+		"name": " Tonga",
+		"flag": "/hub71-impact/flags/to_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/to_1x1.svg"
+	},
+	{
+		"code": "tt",
+		"name": " Trinidad and Tobago",
+		"flag": "/hub71-impact/flags/tt_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tt_1x1.svg"
+	},
+	{
+		"code": "tn",
+		"name": " Tunisia",
+		"flag": "/hub71-impact/flags/tn_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tn_1x1.svg"
+	},
+	{
+		"code": "tm",
+		"name": " Turkmenistan",
+		"flag": "/hub71-impact/flags/tm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tm_1x1.svg"
+	},
+	{
+		"code": "tc",
+		"name": " Turks and Caicos Islands",
+		"flag": "/hub71-impact/flags/tc_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tc_1x1.svg"
+	},
+	{
+		"code": "tv",
+		"name": " Tuvalu",
+		"flag": "/hub71-impact/flags/tv_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tv_1x1.svg"
+	},
+	{
+		"code": "tr",
+		"name": " T\u00fcrkiye",
+		"flag": "/hub71-impact/flags/tr_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/tr_1x1.svg"
+	},
+	{
+		"code": "ug",
+		"name": " Uganda",
+		"flag": "/hub71-impact/flags/ug_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ug_1x1.svg"
+	},
+	{
+		"code": "ua",
+		"name": " Ukraine",
+		"flag": "/hub71-impact/flags/ua_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ua_1x1.svg"
+	},
+	{
+		"code": "ae",
+		"name": " United Arab Emirates",
+		"flag": "/hub71-impact/flags/ae_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ae_1x1.svg"
+	},
+	{
+		"code": "gb",
+		"name": " United Kingdom",
+		"flag": "/hub71-impact/flags/gb_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/gb_1x1.svg"
+	},
+	{
+		"code": "um",
+		"name": " United States Minor Outlying Islands",
+		"flag": "/hub71-impact/flags/um_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/um_1x1.svg"
+	},
+	{
+		"code": "us",
+		"name": " United States of America",
+		"flag": "/hub71-impact/flags/us_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/us_1x1.svg"
+	},
+	{
+		"code": "uy",
+		"name": " Uruguay",
+		"flag": "/hub71-impact/flags/uy_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/uy_1x1.svg"
+	},
+	{
+		"code": "uz",
+		"name": " Uzbekistan",
+		"flag": "/hub71-impact/flags/uz_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/uz_1x1.svg"
+	},
+	{
+		"code": "vu",
+		"name": " Vanuatu",
+		"flag": "/hub71-impact/flags/vu_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/vu_1x1.svg"
+	},
+	{
+		"code": "ve",
+		"name": " Venezuela",
+		"flag": "/hub71-impact/flags/ve_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ve_1x1.svg"
+	},
+	{
+		"code": "vn",
+		"name": " Vietnam",
+		"flag": "/hub71-impact/flags/vn_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/vn_1x1.svg"
+	},
+	{
+		"code": "vg",
+		"name": " Virgin Islands (British)",
+		"flag": "/hub71-impact/flags/vg_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/vg_1x1.svg"
+	},
+	{
+		"code": "vi",
+		"name": " Virgin Islands (U.S.)",
+		"flag": "/hub71-impact/flags/vi_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/vi_1x1.svg"
+	},
+	{
+		"code": "wf",
+		"name": " Wallis and Futuna",
+		"flag": "/hub71-impact/flags/wf_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/wf_1x1.svg"
+	},
+	{
+		"code": "eh",
+		"name": " Western Sahara",
+		"flag": "/hub71-impact/flags/eh_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/eh_1x1.svg"
+	},
+	{
+		"code": "ye",
+		"name": " Yemen",
+		"flag": "/hub71-impact/flags/ye_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/ye_1x1.svg"
+	},
+	{
+		"code": "zm",
+		"name": " Zambia",
+		"flag": "/hub71-impact/flags/zm_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/zm_1x1.svg"
+	},
+	{
+		"code": "zw",
+		"name": " Zimbabwe",
+		"flag": "/hub71-impact/flags/zw_4x3.svg",
+		"flagSquare": "/hub71-impact/flags/zw_1x1.svg"
+	}
+]
